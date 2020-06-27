@@ -2,6 +2,6 @@
 
 https://needtodolist.herokuapp.com/
 
-Connect to a cloude mongoDB database
+Connect to a cloud mongoDB database
 
 https://www.mongodb.com/cloud/atlas
