@@ -6,4 +6,4 @@ Connect to a cloud mongoDB database
 
 https://www.mongodb.com/cloud/atlas
 
-Node.js / Express.js / Mongoose
+Node.js / Express.js / Mongoose / MongoDB
